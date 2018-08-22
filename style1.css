@@ -1,0 +1,60 @@
+html
+{
+	position: relative;
+	width: 1349px;
+}
+
+body
+{
+margin-bottom: 125px;
+
+}
+hr{
+
+	border-top: 1px solid #ef0107;
+}
+.navbar-inverse {
+	min-height: 70px;
+}
+.navbar-inverse img {
+	width: 40px;
+}
+
+.jumbotron {
+	background-color: #ef0107;
+}
+.Goalkeeper hr {
+	width: 1200px;
+	border-top: 3px solid #ef0107;
+}
+.Defenders hr {
+	width: 1200px;
+	border-top: 3px solid #ef0107;
+}
+.Midfielders hr {
+	width: 1200px;
+	border-top: 3px solid #ef0107;
+}
+.Forwards hr {
+	width: 1200px;
+	border-top: 3px solid #ef0107;
+}
+.Forwards img {
+	width: 400px;
+}
+.row img {
+	width: 400px;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 125px;
+	background-color: #333;
+	color: #aaa;
+	padding-top: 60px;
+}
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+}
